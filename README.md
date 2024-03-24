@@ -1,0 +1,1 @@
+// Simple application that exposes a couple of endpoints
